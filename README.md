@@ -1,5 +1,5 @@
 # tsp-using-ga
-Solving the Traveling Salesman Problem using Genetic Algorithm in Python
+Solving the Traveling Salesman Problem using Genetic Algorithm in Python 3.8.0
 
 ## Running in Jupyter Notebook(Anaconda)
 
